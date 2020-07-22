@@ -1,0 +1,25 @@
+{
+  "name": "license-please",
+  "version": "1.0.0",
+  "description": "Generate license files on the fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margaiwangara/license-please.git"
+  },
+  "keywords": [
+    "licence",
+    "license",
+    "license-please",
+    "licence-please"
+  ],
+  "author": "Margai Wangara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/margaiwangara/license-please/issues"
+  },
+  "homepage": "https://github.com/margaiwangara/license-please#readme"
+}
