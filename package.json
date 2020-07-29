@@ -1,5 +1,5 @@
 {
-  "name": "license-please",
+  "name": "license-and-registration",
   "version": "1.0.0",
   "description": "Generate license files on the fly",
   "main": "index.js",
